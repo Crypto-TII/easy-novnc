@@ -1,4 +1,4 @@
-module github.com/geek1011/easy-novnc
+module github.com/Crypto-TII/easy-novnc
 
 go 1.13
 
